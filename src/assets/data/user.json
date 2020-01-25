@@ -1,0 +1,30 @@
+[
+    {
+        "name": "abc",
+        "age": "25",
+        "vehicles": {
+            "cars": [
+                "wagonr",
+                "bmw"
+            ],
+            "bikes": [
+                "avenger",
+                "dukes"
+            ]
+        }
+    },
+    {
+        "name": "xyz",
+        "age": "25",
+        "vehicles": {
+            "cars": [
+                "mercedes",
+                "bmw"
+            ],
+            "bikes": [
+                "avenger",
+                "splender"
+            ]
+        }
+    }
+]
